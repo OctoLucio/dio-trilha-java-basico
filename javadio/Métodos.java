@@ -1,4 +1,4 @@
-package javadio;
+
 
 public class Métodos {
     //métodos devem ser nomeados como verbo;

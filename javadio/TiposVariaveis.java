@@ -1,4 +1,3 @@
-package javadio;
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         // byte; --> [-128-127] (parte inteira)
