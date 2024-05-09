@@ -25,10 +25,9 @@ public class smartTv {
     public void diminuirVolume() {
         volume--;
 
-
     }
 
-
-    }
+}
+    
     
 
