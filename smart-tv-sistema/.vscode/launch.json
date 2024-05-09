@@ -1,0 +1,35 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "calculadoraIdade",
+            "request": "launch",
+            "mainClass": "calculadoraIdade",
+            "projectName": "smart-tv-sistema_2b95429a"
+        },
+        {
+            "type": "java",
+            "name": "dataResLang",
+            "request": "launch",
+            "mainClass": "dataResLang",
+            "projectName": "smart-tv-sistema_2b95429a"
+        },
+        {
+            "type": "java",
+            "name": "usuario",
+            "request": "launch",
+            "mainClass": "usuario",
+            "projectName": "smart-tv-sistema_2b95429a"
+        }
+    ]
+}
