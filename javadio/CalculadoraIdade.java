@@ -1,7 +1,5 @@
-package javadio;
 import java.util.Scanner;
 import java.time.LocalDate;
-import java.time.Period;
 
 public class CalculadoraIdade {
     public static void main(String[] args) {
