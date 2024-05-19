@@ -10,6 +10,7 @@ public class CharTest {
         else{
             ch = (test2 == test)? test.charAt(2):test.charAt(3);}
         System.out.println(ch);
+        //
 
         
 
