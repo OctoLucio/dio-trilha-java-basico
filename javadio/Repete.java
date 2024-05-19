@@ -4,6 +4,7 @@ public class Repete {
         while(x<10){
             x++;
             System.out.println(x);
+            //
         }
     }
 }
