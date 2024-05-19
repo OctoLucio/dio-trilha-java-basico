@@ -17,5 +17,6 @@ public class TesteCondicional {
        if (idade>=16 && idade<18 || idade>70){
             System.out.println("Voto opcional!");}
         teclado.close();
+        //
 }
 }
