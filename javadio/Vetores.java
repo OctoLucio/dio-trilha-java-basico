@@ -9,15 +9,18 @@ public class Vetores
         for(int c = 0; c < v.length; c++){
         System.out.print(v[c]);
         System.out.print(" ");}
-         
+        System.out.println("");
         for (int val : v) {
             System.out.print(val);} 
+        System.out.println("");    
         //Arrays.binarySearch(Posição de um value num dado array)
         Scanner teclado = new Scanner(System.in);
         System.out.print("Informe o número que deseja descobrir a posição:");
         int num = teclado.nextInt();
         int y = Arrays.binarySearch(v, num);
         System.out.printf("O número %d está na posição %d", num, y);
+        System.out.println("");
+        teclado.close();
         //Arrays.fill (preenchendo arrays)
         Arrays.fill(v,8);
         for(int x:v){
