@@ -7,6 +7,7 @@ public class Contador {
 		int parametroUm = terminal.nextInt();
 		System.out.print("Digite o segundo parâmetro: ");
 		int parametroDois = terminal.nextInt();
+		terminal.close();
 		
 		try {
             contar(parametroUm,parametroDois);
