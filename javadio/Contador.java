@@ -25,7 +25,5 @@ public class Contador {
         int contagem = num2 - num1;
         for(int c=1;c<=contagem;c++){
             System.out.print(c + " ");}
-
-
-    }
 	}
+}
